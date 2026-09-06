@@ -7,8 +7,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-# Tools
+# Tools & Tech
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DirectX-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
