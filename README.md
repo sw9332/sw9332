@@ -45,6 +45,8 @@ Alongside game development, I have been studying graphics programming with Direc
 | LAST HUMAN | 3D Action Adventure | Planning / Programming | 2026.10 - Present |
 | CAT JUMP | 3D Platformer | Planning / Programming | 2026.10 - Present |
 | UNDEAD PROTOCOL | 3D FPS Roguelike | Planning / Programming | 2025.09 - 2026.06 |
+| Space Runner | 3D Running Action | Planning / Programming | 2025.04 - 2025.06 |
+| Casual Runner | 2D Running Action | Planning / Programming | 2024.03 - 2024.06 |
 
 ## Team Projects
 
